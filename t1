@@ -81,7 +81,7 @@ night	1
 HDFS	2
 Hadoop 1
 13.
-hduser@ubuntu:~/Documents$,star-all.sh
+hduser@ubuntu:~/Documents$ start-all.sh
 14.
 hduser@ubuntu:~/Documents$ jps
 15.
